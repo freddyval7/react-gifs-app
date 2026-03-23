@@ -8,5 +8,6 @@ import "./index.css";
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
     <GifsApp />
+    {/* <MyCounterApp /> */}
   </StrictMode>,
 );
